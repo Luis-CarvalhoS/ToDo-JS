@@ -1,0 +1,1 @@
+//ToDo feito em JS puro.
